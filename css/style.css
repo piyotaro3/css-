@@ -1,0 +1,64 @@
+a{
+  text-decoration: none;
+}
+
+.header{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  color: blue;
+  height: 70px;
+}
+
+.header-ttl{
+font-size: 24px;
+padding: 0 30px;
+
+}
+
+.header-nav-ul{
+  display: flex;
+ 
+
+}
+
+.header-nav-item{
+margin-right: 30px;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+.main{
+  height: 700px;
+  position: relative;
+}
+
+.img{
+  background-image:url("../img/firstview.jpeg");
+
+
+
+
+
+
+}
+
+.theme{
+  width: 50%;
+  font-size: 48px;
+  font-weight: lighter;
+  letter-spacing: 1px;
+position: absolute;
+bottom: 315px;
+}
+
+.bac-color{
+  height:auto;
+  width: 70%;
+  background-color: darkblue;
+  position: absolute;
+bottom: 100px;
+
+}
+
